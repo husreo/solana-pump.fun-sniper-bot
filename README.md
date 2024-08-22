@@ -64,6 +64,11 @@ AUTO_SELL_DELAY_MS=30000
 ⭐ **15 stars**: Percentage-based selling  
 ⭐ **20 stars**: Live dashboard for PnL tracking
 
+## 🚀 Starting Budget
+
+Personally I recommended to start with at least **1 SOL**. This amount provides a solid base to engage in multiple trades while managing risks effectively. Do *not* go in heavy. Slow and steady **wins** the race
+
+
 ## My trades!
 ![alt text](https://i.imgur.com/3r2wzVE.png)
 
