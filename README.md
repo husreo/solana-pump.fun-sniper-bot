@@ -22,6 +22,8 @@ ___
 
 2. **Configure the Bot**: Run the bot and select 'Edit config'
 ![alt text](https://i.imgur.com/pb6TAQ0.png)
+
+
 3. **Run the Bot**:
    ```bash
    node index.js
