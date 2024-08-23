@@ -1,8 +1,8 @@
 
 
-# Free Pump Sniper Bot
+# Pumpfun Sniper Bot
 
-**Pump Sniper Bot** is an automated trading bot for pump.fun. It listens for new token creation events, executes buy orders, and automatically sells tokens after a configurable delay. The bot is easy to set up and fully configurable via environment variables.
+**Pumpfun Sniper Bot** is an automated trading bot for pump.fun. It listens for new token creation events, executes buy orders, and automatically sells tokens after a configurable delay. The bot is easy to set up and fully configurable via environment variables.
 ___
 ![alt text](https://i.imgur.com/rGbG3rT.png)
 
@@ -59,16 +59,10 @@ AUTO_SELL_DELAY_MS=30000
 
 ## Future Updates
 
-⭐ **5 stars**: Rug detection  
-⭐ **10 stars**: Developer sell monitoring  
-⭐ **15 stars**: Percentage-based selling  
-⭐ **20 stars**: Live dashboard for PnL tracking
+I am going to add stop loss and take profit function to the sniper, so sniper will auto-sell the tokens when the price of the token meets the TP and SL.
 
 ## 🚀 Starting Budget
 
 Personally I recommended to start with at least **1 SOL**. This amount provides a solid base to engage in multiple trades while managing risks effectively. Do *not* go in heavy. Slow and steady **wins** the race
 
-
-## My trades!
-![alt text](https://i.imgur.com/3r2wzVE.png)
 
