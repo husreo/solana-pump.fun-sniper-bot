@@ -2,9 +2,10 @@
 
 # Pumpfun Sniper Bot
 
-**Pumpfun Sniper Bot** is an automated trading bot for pump.fun. It listens for new token creation events, executes buy orders, and automatically sells tokens after a configurable delay. The bot is easy to set up and fully configurable via environment variables.
-___
-![alt text](https://i.imgur.com/rGbG3rT.png)
+***Pumpfun Sniper Bot*** is an automated trading tool designed for Pump.fun. It monitors new token creation events, places buy orders, and sells tokens automatically after a customizable delay. The bot is simple to set up and fully configurable through environment variables.
+
+## Contact me
+Telegram: [@derricklee918](https://t.me/@derricklee918)
 
 ## Features
 
@@ -12,6 +13,8 @@ ___
 - **Interactive CLI**: Easily configure the bot settings through a user-friendly CLI.
 - **Comprehensive Logging**: Tracks all activities and errors in a log file.
 - **Auto-Sell Mechanism**: Automatically sells tokens after a set delay.
+
+![alt text](https://i.imgur.com/rGbG3rT.png)
 
 ## Quick Start
 
@@ -30,7 +33,7 @@ ___
 
 3. **Run the Bot**:
    ```bash
-   node index.js
+   node sniper.mjs
    ```
 
 ## Configuration
