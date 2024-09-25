@@ -17,7 +17,7 @@ const asciiArt = `
  )__)  )   / )__)  )__)  )___/ )(__)(  )    (  )___/
 (__)  (_)_\\)(____)(____)(__)  (______)(_/\\/\\_)(__)  
 
-Free pump.fun sniper! - By @jaycooking
+Free pump.fun sniper! - By @coinzap
 `;
 
 const web3Connection = new Connection(process.env.RPC_ENDPOINT, 'confirmed');
