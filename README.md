@@ -14,8 +14,6 @@ Telegram: [@dwlee918](https://t.me/@dwlee918)
 - **Comprehensive Logging**: Tracks all activities and errors in a log file.
 - **Auto-Sell Mechanism**: Automatically sells tokens after a set delay.
 
-![alt text](https://i.imgur.com/rGbG3rT.png)
-
 ## Quick Start
 
 1. **Install Dependencies**:
@@ -64,8 +62,5 @@ AUTO_SELL_DELAY_MS=30000
 
 I am going to add stop loss and take profit function to the sniper, so sniper will auto-sell the tokens when the price of the token meets the TP and SL.
 
-## 🚀 Starting Budget
-
-Personally I recommended to start with at least **1 SOL**. This amount provides a solid base to engage in multiple trades while managing risks effectively. Do *not* go in heavy. Slow and steady **wins** the race
 
 
