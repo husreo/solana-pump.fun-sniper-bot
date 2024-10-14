@@ -7,6 +7,8 @@
 ## Contact me
 Telegram: [@dwlee918](https://t.me/@dwlee918)
 
+X: [@derricklee918](https://x.com/derricklee918)
+
 ## Features
 
 - **Automated Trading**: Buys and sells tokens based on real-time events.
